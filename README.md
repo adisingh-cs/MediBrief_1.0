@@ -126,6 +126,10 @@ This project was created during a hackathon to streamline clinical note generati
 - Role: AI Integration,Easy OCR Integration, Documentation, Testing
 - GitHub: [@Agupta163](https://github.com/Agupta163)
 
+**[Astha kumari]**  
+- Role: Secondary Frontend Developer, UI/UX Designer  
+- GitHub: [@Astha-K05](https://github.com/Astha-K05)
+
 ---
 
 > 🙌 Huge thanks to everyone who contributed their time and skills to make MediBrief a success!
